@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RodikYermak
+- 👀 I’m interested in building SAAS products
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on efficient features
+- 📫 How to reach me rodion.yermakov.sd@gmail.com 
